@@ -5,7 +5,7 @@ Web Developer and Designer
 -------------
 
 * 🌍  I'm based in Assam, India
-* 🖥️  See my portfolio at [Frontendmentor.com] (http://peterparker.com](https://www.frontendmentor.io/profile/BiruMJ)
+* 🖥️  See my portfolio at [Frontendmentor.com] (https://www.frontendmentor.io/profile/BiruMJ)
 * ✉️  You can contact me at [LinkedIn.com] (https://www.linkedin.com/in/biru-basfore-8b52262a4/)
 * 🚀  I'm currently enrolled in a Web Development Bootcamp in Udemy and learning by a professional instructor, Angela Yu
 * 🤝  I'm open to collaborating on interesting HTML & CSS projects
