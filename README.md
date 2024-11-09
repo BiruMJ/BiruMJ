@@ -1,7 +1,7 @@
 Hi 👋 My name is Biru Basfore
 =============================
 
-Web Developer and Designer
+I am a Front-end Developer and UI | UX Designer
 -------------
 
 * 🌍  I'm based in Assam, India
