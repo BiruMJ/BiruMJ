@@ -12,6 +12,8 @@ I am a Front-end Web Developer and UI | UX Designer
 * 🤝  I'm open to collaborating on interesting HTML, CSS and JavaScript projects
 * ⚡  I am currently doing small projects at Frontendmentor and Roadmap websites
 
+Here is my #RoadCard: [https://roadmap.sh/card/tall/670cc6f0791f57dd60beda6b?variant=dark&roadmaps=%2Cfrontend%2Cbackend%3Fr%3Dbackend-beginner]
+
 <!---
 BiruMJ/BiruMJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
